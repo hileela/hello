@@ -9,5 +9,6 @@ genshin mains
 - xiao
 - venti
 - bennett
+- zhongli
 
 [live site](hileela.github.io)
