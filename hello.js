@@ -1,3 +1,3 @@
 function myFunction(){
-  window.alert("Hello, world!");
+  window.alert("hi!");
 }
